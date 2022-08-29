@@ -1,0 +1,24 @@
+
+
+
+Homework: Javascript III
+_______________________________________________________
+
+
+
+*	Arrays :	Se le denomina array o arreglo a la lista de valores que estan almacenados uno detras de otro y separados por comas.
+			En su mayoria estos valores pueden ser un numero, palabras, una fecha, verdadero o falso, etc.
+
+Los valores que almacena un arreglo pueden ser de igual tipo. Por ejemplo :
+
+let numero = [1, 2, , 3, 4, 5, 6, 7, 8, 9];
+
+
+O tambien los valores que almacena un arreglo pueden ser de igual tipo distinto. Por ejemplo :
+
+let datos = ["Bill", "Gates", "28/10/1965", 66, "Seatle, USA", "Empresario americano"];
+
+
+
+
+
