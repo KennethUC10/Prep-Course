@@ -1,0 +1,15 @@
+
+
+
+Homework: Javascript VI
+_______________________________________________________
+
+
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+1) Callback :	Se le denomina callback a aquella funcion que se ejecuta cuando recibe otra funcion como parametro (en este caso, un trozo de codigo necesario para que el codigo interno de la funcion sea ejecutado)
+
+
