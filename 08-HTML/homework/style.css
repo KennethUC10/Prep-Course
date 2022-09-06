@@ -1,11 +1,26 @@
 body
 {
-    background-color: silver;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://wallpaper.dog/large/20354826.jpg");
+}
+
+#main
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#main #divSegundo
+{
+    width: 60%;
 }
 
 h1
 {
-    color: dodgerblue;
+    color: white;
 }
 
 img
@@ -22,8 +37,20 @@ img
     border: gold solid 10px;
 }
 
+#thirdDiv ul
+{
+    list-style: none;
+}
+
 #spanId
 {
     font-size: 18px;
     margin: 50px;
+    background-color: black;
+    color: white;
+}
+
+.divClass
+{
+    text-align: center;
 }
