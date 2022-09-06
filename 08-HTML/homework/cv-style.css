@@ -1,0 +1,59 @@
+body
+{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+#titulo
+{
+    width: 100%;
+    background-color: gold;
+    color: black;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+}
+
+
+#titulo h1
+{
+    margin-top: 0px;
+}
+
+#descripcion
+{
+    width: 70%;
+    border: white solid 3px;
+    margin-bottom: 40px;
+}
+
+#educacion, #experiencia, #skill, #hobbie
+{
+    width: 45%;
+    border: white solid 3px;
+    margin-bottom: 40px;
+}
+
+#foto img
+{
+    width: 200px;
+    margin-bottom: 40px;
+}
+
+h2, p
+{
+    padding-left: 20px;
+}
+
+h2
+{
+    text-decoration: underline;
+}
+
+
+
