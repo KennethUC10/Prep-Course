@@ -1,0 +1,19 @@
+
+
+
+Homework: Introducción a Javascript
+_______________________________________________________
+
+
+
+For :		For es una sentencia que se encarga de crear un bucle que repite un conjunto de instrucciones un numero finito de veces
+		Pero para que ese proceso repetitivo se ejecute, se deben cumplir 3 condiciones
+
+
+&&, ||, ! :	Son operadores que mediante uso de logica comparan valores o condiciones que dependiendo del operador, se cumplen todas o no. Es decir :
+		&& :	Cuando usamos este operador, todas las condiciones comparadas deben ser verdaderas o todos los valores deben ser TRUE
+		|| :	Cuando usamos este operador, todas las condiciones que comparamos tienen diferente valores. Unas pueden ser verdaderas se vuelve falsas
+		! :	Cuando usamos este operador, cambia el valor que tenemos a su sentido opuesto. Verdadero se vuelve falso y viceversa.
+
+
+
