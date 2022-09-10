@@ -1,0 +1,40 @@
+
+
+
+Homework: Introducción a Javascript
+_______________________________________________________
+
+
+
+Variable :	Es un elemento creado en un lenguaje de programacion y que permiten almacenar determinado valor.
+		Debido a que existen muchos tipos pueden ser un numero, un texto, una fecha, etc
+
+
+String :	Es un tipo de variable y permite almacenar valores de tipo texto.
+		Por ejemplo :	Un nombre, una direccion, 
+
+
+Funciones (argumentos, return) :
+Una funcion es un determinado codigo que puede ser usado una y otra vez; y siempre devuelve un valor
+
+
+Declaraciones if :
+Una declaracion IF es un codigo que cumple un determinado procedimiento si antes se cumplen condiciones 
+
+
+Valores booleanos (true, false) :
+Los valores booleanos son un tipo de dato que almacena 2 tipos de valores : true(verdadero) o false(falso)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
